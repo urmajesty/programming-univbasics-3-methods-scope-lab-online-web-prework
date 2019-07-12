@@ -4,8 +4,10 @@ def mario
  puts phrase
 end
 
-def phrase 
+def phrase
+  
   puts "It's-a me, Mario!"
+  
 end
 
 def toadstool
