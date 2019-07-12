@@ -9,3 +9,10 @@ def phrase
   puts '(It\'s-a me, Mario)
 end
 
+def toadstool
+ puts status
+end
+
+def link (a)
+  puts "It\'s Dangerous To Go Alone! Take This."
+end
